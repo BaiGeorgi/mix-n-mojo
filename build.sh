@@ -1,2 +1,2 @@
-rm -f dial-a-pirate.love
-zip -r dial-a-pirate.love ./ --exclude \*.zip --exclude .\* --exclude \*.sh
+rm -f mix-n-mojo.love
+zip -r mix-n-mojo.love ./ --exclude \*.zip --exclude .\* --exclude \*.sh
