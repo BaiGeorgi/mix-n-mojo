@@ -1,6 +1,7 @@
-# dial-a-pirate
-A [LÖVE](https://love2d.org/) implementation of the Dial-A-Pirate
-copy-protection wheel from the EGA version of The Secret of Monkey Island
+# mix-n-mojo
+A [LÖVE](https://love2d.org/) implementation of the mix-n-mojo
+copy-protection wheel from Monkey Island 2: LeChuck's Revenge
+The code is based on [dial-a-pirate](https://github.com/andmatand/dial-a-pirate)
 
 ## Setup
 Run the following to download the assets (two images):
